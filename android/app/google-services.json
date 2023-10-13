@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "708329822089",
+    "firebase_url": "https://data-84f27-default-rtdb.firebaseio.com",
+    "project_id": "data-84f27",
+    "storage_bucket": "data-84f27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708329822089:android:dac6cac59cdfa4a0a7f358",
+        "android_client_info": {
+          "package_name": "com.mycompany.stockvelapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp17cG3W-Yo0MMqQQJF-xQ-MsgLYoQASQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
